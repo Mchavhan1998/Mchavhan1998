@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Mchavhan1998/Mchavhan1998/blob/main/Untitled.png" alt="logo">
+  <img src="https://github.com/Mchavhan1998/Mchavhan1998/blob/main/%E2%80%94Pngtree%E2%80%94computer%20generated%20illustration%20of%20business_11860238.jpg?raw=true" alt="logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm Mayur</h1>
