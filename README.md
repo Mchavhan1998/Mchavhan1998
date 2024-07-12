@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Mchavhan1998/Mchavhan1998/blob/main/%E2%80%94Pngtree%E2%80%94computer%20generated%20illustration%20of%20business_11860238.jpg?raw=true" alt="logo">
-</div>
+![logo](https://github.com/Mchavhan1998/Mchavhan1998/blob/main/%E2%80%94Pngtree%E2%80%94computer%20generated%20illustration%20of%20business_11860238.jpg)
 
 <h1 align="center">Hi 👋, I'm Mayur</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
