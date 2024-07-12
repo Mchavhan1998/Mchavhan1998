@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Mchavhan1998/Mchavhan1998/blob/main/Untitled.png" alt="logo">
+</div>
+
 <h1 align="center">Hi 👋, I'm Mayur</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
